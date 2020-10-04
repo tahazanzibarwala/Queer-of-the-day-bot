@@ -139,7 +139,7 @@ nouns = [
     'popcorn 🍿',
     'pho',
     'Khia sangia',
-    'dosa'
+    'dosa',
 
     # computer things
     'laptop',
